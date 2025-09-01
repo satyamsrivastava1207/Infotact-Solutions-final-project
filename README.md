@@ -5,7 +5,7 @@
 
 ---
 
-### 📌 Week 1: Introduction to NIDS and Snort – Installation and Setup  
+### Week 1: Introduction to NIDS and Snort – Installation and Setup  
 
 #### What is NIDS (Network Intrusion Detection System)?  
 A **Network Intrusion Detection System (NIDS)** is a cybersecurity tool that monitors network traffic for suspicious activity or known threats and alerts the user/admin.  
